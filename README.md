@@ -1,4 +1,61 @@
+
+#Mascot Memory Game
+This project was built in React. The goal of the game is to try to remember which mascots you've already click and try to avoid them as long as possible. The User with the most unique clicks (choosing a mascot that has not been picked yet) will have the highest score and reset the highest score. Try the game here. 
 [Game link](https://meganthonykeogh.github.io/mascot-memory-game/)
+
+Getting Started
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
+Prerequisites
+Node and a github account are necesssary for this project. Especially if you plan on hosting your game on github pages, as I did. 
+
+Give examples
+Installing
+If you do not already have [Nodejs](https://nodejs.org/en/), you can download it here. Since I am creating this on GitHub, I'm assuming you already have a GitHub account. If not, go [here](https://github.com/).
+
+Say what the step will be
+
+Give the example
+And repeat
+
+until finished
+End with an example of getting some data out of the system or using it for a little demo
+
+Running the tests
+Explain how to run the automated tests for this system
+
+Break down into end to end tests
+Explain what these tests test and why
+
+Give an example
+And coding style tests
+Explain what these tests test and why
+
+Give an example
+Deployment
+Add additional notes about how to deploy this on a live system
+
+Built With
+Dropwizard - The web framework used
+Maven - Dependency Management
+ROME - Used to generate RSS Feeds
+Contributing
+Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+
+Versioning
+We use SemVer for versioning. For the versions available, see the tags on this repository.
+
+Authors
+Billie Thompson - Initial work - PurpleBooth
+See also the list of contributors who participated in this project.
+
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+Acknowledgments
+Hat tip to anyone whose code was used
+Inspiration
+etc
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
