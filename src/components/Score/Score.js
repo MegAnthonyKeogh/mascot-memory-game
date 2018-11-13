@@ -15,6 +15,10 @@ class Score extends React.Component {
         <div className="row">
           <div className="col">
             <p>Score: {this.props.score} || High Score:{this.props.HighScore} </p>
+            <p> How do you win this game? By selecting a new mascot each time.</p>
+            <p> Once you select an already selected mascot, the game ends</p>
+            <p>Enjoy! </p>
+
           </div>
           </div>
           </div>
