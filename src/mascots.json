@@ -71,5 +71,43 @@
       "name": "San Francisco 49ers",
       "image": "https://i.imgur.com/vwcqOOy.jpg",
       "alreadyClicked": false
+    },
+    {
+      "id": 13,
+      "name": "Hillsboro hops",
+      "image": "https://peopledotcom.files.wordpress.com/2018/09/mascots-10.jpg?w=768",
+      "alreadyClicked": false
+    },
+    {
+      "id": 14,
+      "name": "Scampi ",
+      "image": "https://peopledotcom.files.wordpress.com/2018/09/mascots-13.jpg?w=768",
+      "alreadyClicked": false
+    },
+    {
+      "id": 15,
+      "name": "King Cake Baby ",
+      "image": "https://peopledotcom.files.wordpress.com/2018/09/mascots-5.jpg?w=768",
+      "alreadyClicked": false
+
+    },
+    {
+      "id": 16,
+      "name": "Victor E. Green",
+      "image": "https://peopledotcom.files.wordpress.com/2018/09/mascots-3.jpg?w=768",
+      "alreadyClicked": false
+    },
+    {
+      "id": 17,
+      "name": "Nutzy the Flying Squirrell",
+      "image": "https://peopledotcom.files.wordpress.com/2018/09/mascots-9.jpg?w=768",
+      "alreadyClicked": false
+    },
+    {
+      "id": 18,
+      "name": "stuff the magic dragon",
+      "image": "https://peopledotcom.files.wordpress.com/2018/09/mascots-1.jpg?w=768",
+      "alreadyClicked": false
     }
+    
   ]
